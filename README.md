@@ -1,13 +1,11 @@
-## Installation
+## Roulette
 
-1. Clone repo
-2. run `npm install`
+Basic CRUD application
+Make an application that allows a users to bet any amount and allows the admin to log in and see total bets, loses and wins
 
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
+Example:
+```
+I completed the challenge: 5
+I feel good about my code: 5
+this gave me a good understanding of how to make a crud app. any feedback is appreciated. 
+```
