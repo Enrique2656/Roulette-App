@@ -7,5 +7,5 @@ Example:
 ```
 I completed the challenge: 5
 I feel good about my code: 5
-this gave me a good understanding of how to make a crud app. Any feedback is appreciated. 
+This gave me a good understanding of how to make a crud app. Any feedback is appreciated. 
 ```
